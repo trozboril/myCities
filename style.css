@@ -1,12 +1,16 @@
+body {
+	background-color: #ccc;
+}
+
 h3 {
 	text-align: center;
 }
 
-img {
+/*img {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-}
+}*/
 
 h2 {
 	text-align: center;
