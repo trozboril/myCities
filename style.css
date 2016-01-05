@@ -1,0 +1,41 @@
+h3 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2 {
+	text-align: center;
+	color: red;
+}
+
+video {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+audio {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+p {
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.list {
+	margin-right: 55%;
+	margin-left: 45%;
+}
