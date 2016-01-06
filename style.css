@@ -6,11 +6,9 @@ h3 {
 	text-align: center;
 }
 
-/*img {
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}*/
+img {
+	margin-bottom: 15px;
+}
 
 h2 {
 	text-align: center;
@@ -21,6 +19,7 @@ video {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	margin-bottom:50px;
 }
 
 audio {
