@@ -32,7 +32,29 @@ p {
 	text-align: center;
 }
 
+.center {
+	border-style: solid;
+	border-color: black;
+	width: 200px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 .list {
-	margin-right: 55%;
-	margin-left: 45%;
+	padding-left: 65px;
+}
+
+.list2 {
+	padding-left: 85px;
+}
+
+.flip {
+	transition: 5s;
+	transform-style: preserve-3d;
+	position: absolute;
+}
+
+.flip:hover {
+	transform: rotateY(360deg)
 }
